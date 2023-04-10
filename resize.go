@@ -14,15 +14,16 @@ TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
 THIS SOFTWARE.
 */
 
-// Package resize implements various image resizing methods.
+// package goimg implements various image resizing methods.
 //
 // The package works with the Image interface described in the image package.
 // Various interpolation methods are provided and multiple processors may be
 // utilized in the computations.
 //
 // Example:
-//     imgResized := resize.Resize(1000, 0, imgOld, resize.MitchellNetravali)
-package resize
+//
+//	imgResized := resize.Resize(1000, 0, imgOld, resize.MitchellNetravali)
+package goimg
 
 import (
 	"image"

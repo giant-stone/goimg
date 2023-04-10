@@ -1,3 +1,4 @@
+//go:build go1.5
 // +build go1.5
 
 /*
@@ -16,7 +17,7 @@ TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
 THIS SOFTWARE.
 */
 
-package resize
+package goimg
 
 import (
 	"image"
