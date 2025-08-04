@@ -7,6 +7,7 @@ This package is a fork of https://github.com/nfnt/resize  , required Go >=1.12+.
 [![Go](https://github.com/giant-stone/goimg/actions/workflows/go.yml/badge.svg)](https://github.com/giant-stone/goimg/actions/workflows/go.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/giant-stone/goimg)](https://goreportcard.com/report/github.com/giant-stone/goimg)
 [![LICENSE](https://img.shields.io/github/license/giant-stone/goimg.svg?style=flat-square)](https://github.com/giant-stone/goimg/blob/master/LICENSE)
+[![GoDoc](https://godoc.org/github.com/giant-stone/goimg?status.svg)](https://godoc.org/github.com/giant-stone/goimg)
 
 ## Usage
 
